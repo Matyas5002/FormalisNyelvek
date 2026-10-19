@@ -1,2 +1,5 @@
 __pycache__
 *.py[c|o]
+*.txt
+*.md
+!README.md
