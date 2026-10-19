@@ -213,7 +213,6 @@ class DET(Problem):
             ' '.join(dfa_alphabet),
             dfa_start_state,
             ' '.join(dfa_final_states),
-            ''
         ]
 
         for src, sym, dst in dfa_transitions:
